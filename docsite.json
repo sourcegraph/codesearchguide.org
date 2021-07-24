@@ -1,0 +1,11 @@
+{
+  "$comment": "This configures the server used in local development only. See README.md.",
+  "content": ".",
+  "baseURLPath": "/",
+  "templates": "_resources/templates",
+  "assets": "_resources/assets",
+  "assetsBaseURLPath": "/assets/",
+  "check": {
+    "ignoreURLPattern": "(^https?://)|(^#)|(^mailto:[\\w.-]+@([\\w.-]+\\.)+\\w+(\\?|$))|(^chrome://)|(^/@)"
+  }
+}
