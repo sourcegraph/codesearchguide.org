@@ -4,7 +4,7 @@ Google developers use CodeSearch, an internal code search tool. They also run pu
 
 [Caitlin Sadowski](https://research.google/people/CaitlinSadowski/), a Google software engineer and researcher, led a public study of how Google developers use their internal CodeSearch tool: [How Developers Search for Code: A Case Study](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf).
 
-> On average, developers compose **12 search queries per weekday** (median is 6). Compared to previous literature, it would seem that code search is far more common than it once was. 
+> On average, developers compose **12 search queries per weekday** (median is 6) [in 5 sessions]. Compared to previous literature, it would seem that code search is far more common than it once was.
 >
 > Code search tools are becoming so entrenched in software development that they are used to navigate even through code developers know well.
 
