@@ -15,6 +15,7 @@ A list of all known standalone code search tools, both internal and publicly ava
 - [Livegrep](https://github.com/livegrep/livegrep) ([implementation blog post](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/), [another blog post](https://slacker.ro/2020/02/03/reflections-on-software-performance/))
 - [Searchcode](https://searchcode.com/)
 - [Zoekt](https://github.com/google/zoekt)
+- [GitHub code search](https://cs.github.com)
 - [Google Cloud Source Repositories code search](https://cloud.google.com/source-repositories/docs/searching-code)
 - [Sourcegraph](https://sourcegraph.com) ([source code](https://github.com/sourcegraph/sourcegraph), [architecture/design overview](https://docs.sourcegraph.com/dev/background-information/architecture))
 - [Sourcetrail](https://www.sourcetrail.com/)
