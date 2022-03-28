@@ -18,6 +18,6 @@ Here's how the study categorized the ways that Google engineers use code search:
 
 <img src="img/google-cs295.png" alt="[It's] essential to be able to easily search [the] whole source … huge productivity boost: easy to find uses, defs, examples, etc.">
 
-Jeff Dean also helped create Google's internal code search tool. From [his bio]((https://research.google/people/jeff/):
+Jeff Dean also helped create Google's internal code search tool. From [his bio](https://research.google/people/jeff/):
 
 > While at Google, I've worked on the following projects: ... Some internal tools to make it easy to rapidly search our internal source code repository.
