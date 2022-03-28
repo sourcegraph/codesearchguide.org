@@ -11,7 +11,6 @@ Keep it as a single list with at most 2 levels. (Anything else may not render co
 -->
 
 - [Overview](index.md)
-- [History](history.md)
 - [How it's used](use-cases.md)
   - [Understanding code](use-cases.md#understanding-code)
   - [Dev onboarding](use-cases.md#understanding-code)
