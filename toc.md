@@ -12,9 +12,8 @@ Keep it as a single list with at most 2 levels. (Anything else may not render co
 
 - [Overview](index.md)
 - [How it's used](use-cases.md)
-  - [Understanding code](use-cases.md#understanding-code)
-  - [Dev onboarding](use-cases.md#understanding-code)
-  - [Code reuse](use-cases.md#usage-examples)
+  - [Understanding code and dev onboarding](use-cases.md#dev-onboarding)
+  - [Code reuse](use-cases.md#code-reuse)
   - [Finding/fixing vulns](use-cases.md#finding-and-fixing-vulnerabilities)
   - [Incident response](use-cases.md#incident-response)
 - [Where it's used](story/index.md)
