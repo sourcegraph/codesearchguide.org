@@ -36,3 +36,11 @@ Some super useful comprehensive guides to a certain topic:
 
 - [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon
 - [Pricing low-touch SaaS](https://stripe.com/atlas/guides/saas-pricing) by Patrick McKenzie (patio11)
+
+## Sourcegraph-internal documentation
+
+> This section is only applicable to Sourcegraph staff.
+
+- [codesearchguide.org analytics (page views, etc.)](https://dash.cloudflare.com/e82b9f6a9a9704e284eb4317b15cb2a1/codesearchguide.org/analytics/traffic/page-views)
+
+
