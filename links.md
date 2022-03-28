@@ -8,3 +8,7 @@
 - [Yelp engineering blog post about code search](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html)
 - [History of OpenGrok](https://github.com/oracle/opengrok/wiki/Story-of-OpenGrok)
 - [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+
+## Discussions about code search
+
+- [Ask HN: How do you search large codebases before adding a feature or fixing a bug?](https://news.ycombinator.com/item?id=30819579) (March 2022)
