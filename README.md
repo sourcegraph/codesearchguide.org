@@ -28,6 +28,8 @@ All contributions are welcome. Just open a pull request.
 
 This entire guide is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+To preview the site locally, install [docsite](https://github.com/sourcegraph/docsite) and run `docsite serve` in this directory.
+
 ## Inspirations
 
 Some super useful comprehensive guides to a certain topic:
