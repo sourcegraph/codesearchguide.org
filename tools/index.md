@@ -18,6 +18,5 @@ A list of all known standalone code search tools, both internal and publicly ava
 - [GitHub code search](https://cs.github.com)
 - [Google Cloud Source Repositories code search](https://cloud.google.com/source-repositories/docs/searching-code)
 - [Sourcegraph](https://sourcegraph.com) ([source code](https://github.com/sourcegraph/sourcegraph), [architecture/design overview](https://docs.sourcegraph.com/dev/background-information/architecture))
-- [Sourcetrail](https://www.sourcetrail.com/)
 - [grep.app](https://grep.app/)
 - [mozsearch](https://github.com/mozsearch/mozsearch)
