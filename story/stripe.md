@@ -20,13 +20,13 @@ Patrick McKenzie (patio11) on how he answers questions about Stripe's codebase:
 >
 > It borders on miraculous.
 >
-> "What's livegrep do?" Instantly grep all code at your company from a web interface, with it producing the relevant files, contextual snippets, and links to the full version in Github/GHE/etc.
+> "What's livegrep do?" Instantly grep all code at your company from a web interface, with it producing the relevant files, contextual snippets, and links to the full version in GitHub/GHE/etc.
 > 
 > It's blaaaaaazing fast, too, even across our Very Materially Sized codebase.
 >
 > Importantly, because livegrep functions through a web interface, you don't need to have the right repository checked out to very quickly answer questions about it.
 > 
-> (It's also ~100X faster than trying to search Github, in my experience, and significantly faster than grep.)
+> (It's also ~100X faster than trying to search GitHub, in my experience, and significantly faster than grep.)
 >
 > --- [@patio11 on Twitter](https://twitter.com/patio11/status/1086113318769647616)
 
