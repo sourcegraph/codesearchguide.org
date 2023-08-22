@@ -6,7 +6,7 @@ A list of all known standalone code search tools, both internal and publicly ava
 
 - [OpenGrok](https://oracle.github.io/opengrok/) from Sun Microsystems (now Oracle)
 - [LXR](https://lxr.sourceforge.io/en/index.php)
-- Google CodeSearch
+- Google CodeSearch ([Chromium](https://source.chromium.org/chromium), [Android](https://cs.android.com/), [other open source projects](cs.opensource.google/))
 - Facebook TBGS ("The Big Grep Search") a.k.a. BigGrep
 - [source navigator](http://sourcenav.sourceforge.net/)
 - [DXR](https://github.com/mozilla/dxr)
@@ -20,3 +20,5 @@ A list of all known standalone code search tools, both internal and publicly ava
 - [Sourcegraph](https://sourcegraph.com) ([source code](https://github.com/sourcegraph/sourcegraph), [architecture/design overview](https://docs.sourcegraph.com/dev/background-information/architecture))
 - [grep.app](https://grep.app/)
 - [mozsearch](https://github.com/mozsearch/mozsearch)
+- [Debian Code Search](https://codesearch.debian.net)
+- [github.com/google/codesearch](https://github.com/google/codesearch)
